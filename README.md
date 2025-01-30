@@ -1,5 +1,5 @@
 ## Hi, I'm FlyingObject1024 👋
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingObject1024)
 
 ## certifications
 ### 2024
@@ -18,7 +18,6 @@
 🌐TOEFL ITP 467
 🌐Eiken (Japan's official English test) Grade 2
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingObject1024)
 
 <!--
 **FlyingObject1024/FlyingObject1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
