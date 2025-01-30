@@ -14,7 +14,7 @@
 💻Applied Information Technology Engineer Examination(AP): 2022
 
 ### before 2021
-🚙Japanese Driver's License 1st grade
+🚙Japan's Driver's License 1st grade
 🌐TOEFL ITP 467
 🌐Eiken (Japan's official English test) Grade 2
 
