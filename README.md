@@ -18,7 +18,7 @@
 🌐TOEFL ITP 467
 🌐Eiken (Japan's official English test) Grade 2
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlyingObject1024&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=FlyingObject1024)
 
 <!--
 **FlyingObject1024/FlyingObject1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
